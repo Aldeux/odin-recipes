@@ -1,0 +1,40 @@
+*{
+    background-color: black;
+    color:papayawhip;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.center{
+    text-align: center;
+}
+
+.justify{
+    text-align: justify;
+}
+
+h1,.title{
+    font-family: "Josefin Slab","Arial","Helvetica",sans-serif;
+    font-weight: 400;
+    font-size: 72px;
+    color: peachpuff;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+a{
+    color: papayawhip;
+    font-size: 20px;
+}
+
+img.vertical{
+    height: 300px;
+    width: auto;
+}
+
+img.horizontal{
+    height: auto;
+    width: 300px;
+}
